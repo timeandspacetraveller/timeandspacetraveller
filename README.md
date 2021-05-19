@@ -1,4 +1,6 @@
-### Hi there 👋
+The Bridge Between Crypto and the Real World
+
+The idea of Time and Space Traveller is removing barriers between dreams and reality, reaching the real world and showing that one token could change the world.
 
 <!--
 **timeandspacetraveller/timeandspacetraveller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
